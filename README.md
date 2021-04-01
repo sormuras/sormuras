@@ -1,6 +1,11 @@
-### Hi there 👋
+Modules, modules, every where,
 
-### Connect with me
+And class-path hell did shrink;
+
+Modules, modules, every where,
+
+Let `sun.misc.Unsafe` sink.
+
 [<img align="left" alt="sormuras.github.io" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://sormuras.github.io)
 [<img align="left" alt="sormuras@twitter" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/sormuras)
 
