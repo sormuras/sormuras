@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### Connect with me
+[<img align="left" alt="sormuras.github.io" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://sormuras.github.io)
+[<img align="left" alt="sormuras@twitter" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/sormuras)
+
 <!--
 **sormuras/sormuras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
