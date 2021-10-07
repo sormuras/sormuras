@@ -3,6 +3,8 @@ And class-path hell did shrink;<br>
 Modules, modules, every where,<br>
 Let `sun.misc.Unsafe` sink.
 
+| Modules, Versions, Every Where! 🧩🔢
+
 <!--
 **sormuras/sormuras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
